@@ -1,4 +1,4 @@
-##################                task no  1           ###############################################
+              task no  1          
 step 1 :Defining the Function:
 def factorial(n):
 This defines a function named factorial that takes an input n.
@@ -26,9 +26,9 @@ result = factorial(n)
 print('factorial of', n, 'is', result)
 The factorial() function is called with the user’s input.
 
-.....................................................................................................................................................
-###################################              task no 2            ############################################################
+...................................................................................................................................................
 
+                                                                   task no 2           
 1.Importing Math Functions:
 from math import *
 This imports all mathematical functions like sqrt(), log(), and sin() from the math module.
